@@ -11,7 +11,7 @@ export default function Header({ theme, onToggleTheme, onPrint }) {
 
       <div className="header-actions">
         <button type="button" className="ghost-button" onClick={onPrint}>
-          Print / Save PDF
+          Download PDF
         </button>
         <button
           type="button"
