@@ -1,0 +1,17 @@
+{
+  "name": "Investment Planner",
+  "short_name": "Invest Planner",
+  "description": "A mobile-first investment planning workspace for modeling long-term growth.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#07100d",
+  "theme_color": "#07100d",
+  "icons": [
+    {
+      "src": "/investment-calculator-logo.png",
+      "sizes": "554x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
